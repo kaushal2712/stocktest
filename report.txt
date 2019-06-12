@@ -1,0 +1,194 @@
+var obj = { VEDL:
+   { DlyQttoTradedQty: '34.31',
+     volumeChange: -30,
+     todayGain: '2.42' },
+  ONGC:
+   { DlyQttoTradedQty: '42.85',
+     volumeChange: -14,
+     todayGain: '2.58' },
+  YESBANK:
+   { DlyQttoTradedQty: '14.59',
+     volumeChange: 31,
+     todayGain: '2.83' },
+  TATAMOTORS:
+   { DlyQttoTradedQty: '10.91', volumeChange: 8, todayGain: '2.83' },
+  HCLTECH:
+   { DlyQttoTradedQty: '54.81',
+     volumeChange: 40,
+     todayGain: '1.54' },
+  UPL:
+   { DlyQttoTradedQty: '31.78',
+     volumeChange: -12,
+     todayGain: '1.36' },
+  INDUSINDBK:
+   { DlyQttoTradedQty: '28.19',
+     volumeChange: -6,
+     todayGain: '2.73' },
+  INFRATEL:
+   { DlyQttoTradedQty: '30.23',
+     volumeChange: -23,
+     todayGain: '0.35' },
+  ZEEL:
+   { DlyQttoTradedQty: '15.26',
+     volumeChange: -33,
+     todayGain: '2.70' },
+  CIPLA:
+   { DlyQttoTradedQty: '34.71',
+     volumeChange: 26,
+     todayGain: '1.34' },
+  HEROMOTOCO:
+   { DlyQttoTradedQty: '16.94',
+     volumeChange: -47,
+     todayGain: '1.14' },
+  'BAJAJ-AUTO':
+   { DlyQttoTradedQty: '29.77',
+     volumeChange: -40,
+     todayGain: '0.04' },
+  TCS:
+   { DlyQttoTradedQty: '44.87',
+     volumeChange: -16,
+     todayGain: '0.92' },
+  TATASTEEL:
+   { DlyQttoTradedQty: '20.37',
+     volumeChange: -17,
+     todayGain: '1.38' },
+  JSWSTEEL:
+   { DlyQttoTradedQty: '18.74',
+     volumeChange: -35,
+     todayGain: '2.64' },
+  WIPRO:
+   { DlyQttoTradedQty: '59.42',
+     volumeChange: -39,
+     todayGain: '0.13' },
+  RELIANCE:
+   { DlyQttoTradedQty: '37.68',
+     volumeChange: -43,
+     todayGain: '0.79' },
+  GRASIM:
+   { DlyQttoTradedQty: '51.51',
+     volumeChange: -41,
+     todayGain: '1.14' },
+  TITAN:
+   { DlyQttoTradedQty: '50.56',
+     volumeChange: 20,
+     todayGain: '0.75' },
+  ICICIBANK:
+   { DlyQttoTradedQty: '40.24',
+     volumeChange: -40,
+     todayGain: '1.42' },
+  ITC:
+   { DlyQttoTradedQty: '68.18',
+     volumeChange: -35,
+     todayGain: '0.18' },
+  INFY:
+   { DlyQttoTradedQty: '62.08',
+     volumeChange: -44,
+     todayGain: '0.07' },
+  HDFCBANK:
+   { DlyQttoTradedQty: '59.43',
+     volumeChange: -28,
+     todayGain: '0.26' },
+  SBIN:
+   { DlyQttoTradedQty: '23.77',
+     volumeChange: -38,
+     todayGain: '1.03' },
+  HINDALCO:
+   { DlyQttoTradedQty: '28.54',
+     volumeChange: -6,
+     todayGain: '0.66' },
+  COALINDIA:
+   { DlyQttoTradedQty: '41.28',
+     volumeChange: -56,
+     todayGain: '-0.12' },
+  GAIL:
+   { DlyQttoTradedQty: '52.47',
+     volumeChange: 3,
+     todayGain: '-0.24' },
+  ASIANPAINT:
+   { DlyQttoTradedQty: '44.11',
+     volumeChange: -51,
+     todayGain: '0.17' },
+  ULTRACEMCO:
+   { DlyQttoTradedQty: '44.87',
+     volumeChange: -53,
+     todayGain: '-0.28' },
+  BAJFINANCE:
+   { DlyQttoTradedQty: '21.82',
+     volumeChange: -30,
+     todayGain: '1.09' },
+  POWERGRID:
+   { DlyQttoTradedQty: '60.47',
+     volumeChange: -56,
+     todayGain: '-0.44' },
+  ADANIPORTS:
+   { DlyQttoTradedQty: '34.34',
+     volumeChange: -70,
+     todayGain: '0.00' },
+  BRITANNIA:
+   { DlyQttoTradedQty: '24.03',
+     volumeChange: -23,
+     todayGain: '-0.48' },
+  LT:
+   { DlyQttoTradedQty: '64.28',
+     volumeChange: -45,
+     todayGain: '-0.40' },
+  AXISBANK:
+   { DlyQttoTradedQty: '50.99',
+     volumeChange: -38,
+     todayGain: '0.13' },
+  EICHERMOT:
+   { DlyQttoTradedQty: '30.09',
+     volumeChange: -58,
+     todayGain: '0.11' },
+  IOC:
+   { DlyQttoTradedQty: '33.69',
+     volumeChange: -58,
+     todayGain: '1.15' },
+  NTPC:
+   { DlyQttoTradedQty: '47.95',
+     volumeChange: -62,
+     todayGain: '0.07' },
+  MARUTI:
+   { DlyQttoTradedQty: '37.94',
+     volumeChange: -49,
+     todayGain: '-0.09' },
+  KOTAKBANK:
+   { DlyQttoTradedQty: '33.40',
+     volumeChange: -49,
+     todayGain: '0.13' },
+  HDFC:
+   { DlyQttoTradedQty: '60.93',
+     volumeChange: -37,
+     todayGain: '-0.43' },
+  TECHM:
+   { DlyQttoTradedQty: '68.75',
+     volumeChange: -35,
+     todayGain: '-0.81' },
+  BAJAJFINSV:
+   { DlyQttoTradedQty: '25.10',
+     volumeChange: -10,
+     todayGain: '-0.54' },
+  HINDUNILVR:
+   { DlyQttoTradedQty: '50.86',
+     volumeChange: -53,
+     todayGain: '-0.78' },
+  BHARTIARTL:
+   { DlyQttoTradedQty: '38.97',
+     volumeChange: -29,
+     todayGain: '-0.29' },
+  DRREDDY:
+   { DlyQttoTradedQty: '35.43',
+     volumeChange: -46,
+     todayGain: '-0.69' },
+  BPCL:
+   { DlyQttoTradedQty: '30.34',
+     volumeChange: -23,
+     todayGain: '-0.94' },
+  IBULHSGFIN:
+   { DlyQttoTradedQty: '19.61',
+     volumeChange: 308,
+     todayGain: '-8.07' },
+  SUNPHARMA:
+   { DlyQttoTradedQty: '33.12',
+     volumeChange: 73,
+     todayGain: '-2.62' } }
